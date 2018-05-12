@@ -1,0 +1,36 @@
+_repo: History-of-the-Nineteenth-Army-Corps_24606
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Irwin, Richard B. (Richard Biddle)
+    alias: Irwin, Richard Biddle
+    birthdate: 1839
+    deathdate: 1892
+    gutenberg_agent_id: '26614'
+    url: http://www.gutenberg.org/2009/agents/26614
+description: Details the regimental history of the Union Army's XIX Corps, Department
+  of the Gulf, created in 1862 comprised totally of men then occupying Louisiana and
+  Eastern Texas. The XIX Corps fought mainly in Louisiana, but took part in the Red
+  River Campaign and Sheridan's Shenandoah Campaign where they suffered heavy losses
+  at Opequon. From there, they were sent to Savannah where the majority were mustered
+  out in March of 1865. The appendix covers rosters, losses in battle, officers killed
+  or mortally wounded, Port Hudson forlorn hope, articles of capitulation, and note
+  on Early's strength.
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2008-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24606'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories'
+- !lcc 'E456'
+- !lcsh 'United States. Army. Corps, 19th'
+title: History of the Nineteenth Army Corps
+url: http://www.gutenberg.org/ebooks/24606
